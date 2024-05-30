@@ -1,3 +1,6 @@
+BU KOD BİR ŞİFRE OLUŞTURUCUSU DEĞİLDİR!
+THIS CODE ISN'T A PASSWORD GENERATOR!
+
 Kodun matematiği/ Math of the code:
 
 m*n=f
