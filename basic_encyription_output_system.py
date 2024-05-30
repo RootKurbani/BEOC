@@ -38,5 +38,3 @@ print("RESULT/SONUÇ:	",a) #DEBUGGING4 // AYIKLAMA4
 
 o = a*n**m #CALCULATION 5 // HESAP 5
 print("RESULT/SONUÇ:	",o) ##DEBUGGING5 //AYIKLAMA5
-
-#TR: Sanırım bu tuhaf  kod kalacak. Hoş gözüken sayılar oluşturabiliyor, belki effektlerde kullanışılıdır. Python matematiğini öğrenmek için yazmıştım bir ara.
