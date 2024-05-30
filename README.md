@@ -3,11 +3,11 @@ THIS CODE ISN'T A PASSWORD GENERATOR!
 
 Kodun matematiği/ Math of the code:
 
-m*n=f
-f(m+n)=b
-b*f=l
-l(b-f)=a
-a*n^m=o
+m * n = f
+f ( m + n ) = b
+b * f = l
+l ( b - f ) = a
+a * n ^ m = o
 
 Açıklama:
 Kod bir çeşit sayı üretme, tam terimini bilmiyorum. dörtlü rakamlarla iyi çalışıyor, python limitinden dolayı sadece 2^30'a kadar çıkılabiliyor. ilk hangi sayının girildiğinin bir önemi var, örnek vermek gerekirse m = 2 ve n = 1 olan bir girişin sonucu 162 ama m = 1 ve n = 2 olan bir girişin sonucu 324. Bu matematik formülünü ben başka kodlama dilleri öğrenirken kullanıyorum, eğlenceli oluyor.
