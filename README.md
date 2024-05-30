@@ -4,9 +4,13 @@ THIS CODE ISN'T A PASSWORD GENERATOR!
 Kodun matematiği/ Math of the code:
 
 m * n = f
+//
 f ( m + n ) = b
+//
 b * f = l
+//
 l ( b - f ) = a
+//
 a * n ^ m = o
 
 Açıklama:
